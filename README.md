@@ -1,3 +1,4 @@
+![Logo](https://github.com/Anmolkhuwaja/Anmolkhuwaja/blob/main/Blue%20Yellow%20Corporate%20Linkedin%20Article%20Cover%20image%20%20(2).png)
 <h1 align="center">Hi 👋, I'm Anmol khuwaja</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
