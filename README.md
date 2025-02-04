@@ -1,6 +1,6 @@
 ![Logo](https://github.com/Anmolkhuwaja/Anmolkhuwaja/blob/main/Blue%20Yellow%20Corporate%20Linkedin%20Article%20Cover%20image%20%20(2).png)
 <h1 align="center">Hello, I'm Anmol Parveen</h1>
-<h3 align="center">A strong frontend developer from Pakistan</h3>
+<h3 align="center">A Strong Frontend Developer From Pakistan</h3>
 
 <img align="right"  src="https://user-images.githubusercontent.com/89764162/216025420-8abe7bc6-0085-46a9-b5e8-27779e5f7a00.gif" alt="Coding" width="400">
 
